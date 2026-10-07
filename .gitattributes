@@ -1,0 +1,4 @@
+# Markdown uses trailing spaces for intentional verse line breaks.
+*.md whitespace=-blank-at-eol
+*.epub binary
+*.png binary

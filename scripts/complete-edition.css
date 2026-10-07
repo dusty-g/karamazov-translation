@@ -1,0 +1,30 @@
+body { font-family: serif; line-height: 1.45; margin: 5%; }
+p { margin: 0; text-indent: 1.2em; widows: 2; orphans: 2; }
+h1, h2, h3, h4 { font-weight: normal; line-height: 1.25; text-align: center; page-break-after: avoid; }
+h1 { font-size: 1.7em; margin: 2em 0 1.5em; }
+h2 { font-size: 1.4em; margin: 2em 0 1.5em; }
+h3 { font-size: 1.25em; margin: 1.5em 0; }
+h4 { font-size: 1.1em; margin: 1.5em 0 1em; }
+h1 + p, h2 + p, h3 + p, h4 + p, section > p:first-of-type { text-indent: 0; }
+blockquote { margin: 1em 1.2em; }
+blockquote p { text-indent: 0; margin: .5em 0; }
+.titlepage { text-align: center; margin-top: 15%; }
+.titlepage p { text-indent: 0; margin: 1.5em 0; }
+.titlepage h1 { font-size: 2em; margin-bottom: 1em; }
+.titlepage .subtitle { font-style: italic; }
+.titlepage .author { font-size: 1.2em; }
+.titlepage .translator { margin-top: 3em; }
+.titlepage .edition { font-size: .85em; margin-top: 3em; }
+#dedication p, #epigraph p { text-indent: 0; margin: 1.5em 0; }
+#dedication { text-align: center; }
+#epigraph { margin: 3em 1em; }
+#about-this-translation p { text-indent: 0; margin: 1em 0; }
+nav ol, nav li { list-style-type: none; }
+nav ol { padding-left: 1.2em; }
+nav > ol { padding-left: 0; }
+nav li { margin: .5em 0; }
+a.footnote-ref { vertical-align: super; font-size: .75em; line-height: 0; }
+a.footnote-ref sup { vertical-align: baseline; font-size: 1em; }
+.footnotes p { text-indent: 0; margin: .5em 0; }
+em { font-style: italic; }
+img { max-width: 100%; }
