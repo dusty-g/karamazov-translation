@@ -4,12 +4,12 @@ A complete, AI-generated English translation of Fyodor Dostoevsky’s novel, tra
 
 ## Download and read
 
-The finished books are in **[exports/](exports/)**. Choose either edition:
+Download either edition from the **[v1.0 release](https://github.com/dusty-g/karamazov-translation/releases/tag/v1.0)**:
 
-- **[Download the annotated EPUB](https://github.com/dusty-g/karamazov-translation/raw/refs/heads/main/exports/The%20Brothers%20Karamazov.epub)** — 83 notes, mainly translations of foreign phrases and explanations of unfamiliar references.
-- **[Download the no-notes EPUB](https://github.com/dusty-g/karamazov-translation/raw/refs/heads/main/exports/The%20Brothers%20Karamazov%20%E2%80%94%20No%20Notes.epub)** — the same complete novel without note markers or annotations. Foreign-language passages remain as in the annotated edition, but their note translations are omitted.
+- **[Download the annotated EPUB](https://github.com/dusty-g/karamazov-translation/releases/download/v1.0/The-Brothers-Karamazov.epub)** — 83 notes, mainly translations of foreign phrases and explanations of unfamiliar references.
+- **[Download the no-notes EPUB](https://github.com/dusty-g/karamazov-translation/releases/download/v1.0/The-Brothers-Karamazov-No-Notes.epub)** — the same complete novel without note markers or annotations. Foreign-language passages remain as in the annotated edition, but their note translations are omitted.
 
-You can open either file in an EPUB reader. If you browse to a file on GitHub instead of using a download link, choose **Download raw file**.
+You can open either file in an EPUB reader. The same files are also kept in [exports/](exports/); the release links above are the recommended downloads.
 
 ### Send to Kindle
 
